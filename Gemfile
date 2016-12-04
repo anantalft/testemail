@@ -47,9 +47,9 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'mailcatcher'
-# gem 'liquid', '~> 2.6.1'
-# gem 'griddler'
-# #gem 'effective_email_templates', :git => 'https://github
+gem 'liquid', '~> 2.6.1'
+gem 'griddler'
+#gem 'effective_email_templates', :git => 'https://github
 # .com/code-and-effect/effective_email_templates'
 #http://geekhmer.github.io/blog/2015/02/21/liquid-on-rails/
 #https://github.com/code-and-effect/effective_email_templates
