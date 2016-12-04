@@ -30,3 +30,4 @@ test:
 
 production:
   <<: *default
+  database: testemail_production
